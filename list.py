@@ -7,4 +7,3 @@ animals.count("dog")
 
 
 print(animals)
-print(animals.count)
