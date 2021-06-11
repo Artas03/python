@@ -1,5 +1,6 @@
-def front_times(str, n):
-  front=str[:3]
-  if n > 0:
-    for i in range n
-      return front
+def multi_table(number):
+    for i in range(1,11):
+        return f"{number} * {i} = {number*i}"
+
+    print(multi_table)
+    
